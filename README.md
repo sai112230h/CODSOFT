@@ -1,5 +1,4 @@
-# CODSOFT  
-# CODSOFT - Task 1: To-Do List Application
+  # CODSOFT - Task 1: To-Do List Application
  NAME-R.SAI PRANEETH 
  The goal is to build a **To-Do List application** using Python
 ## Project Description
@@ -16,3 +15,4 @@
 - **Exit**: Close the application safely.
 #Technologies Used-
 ->Python
+#TASK1 #INTERNSHIP #CODSOFT
