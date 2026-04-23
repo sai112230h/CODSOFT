@@ -25,5 +25,3 @@ if length > 0:
     print("Your Generated Password is:", result)
 else:
     print("Invalid length! Please enter a number greater than 0.")
-
-    
